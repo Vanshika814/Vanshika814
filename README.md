@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshika Agarwal</h1>
 <h3 align="center">Exploring the edge of AI, web, and software development.</h3>
 
-<img src="![image](https://github.com/user-attachments/assets/f291cdbb-c511-49d5-af53-60aa988917b9)
-" alt="Coding GIF" width="400" align="right">
+<img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" alt="Coding GIF" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika814&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika814" /> </p>
 
