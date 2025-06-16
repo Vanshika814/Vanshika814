@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vanshika Agarwal</h1>
 <h3 align="center">Exploring the edge of AI, web, and software development.</h3>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtueHpsNTlldTN3d21jMG5pOTdyYmV5eGdrM210dmxpNnBycHc3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coding GIF" width="440" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika814&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika814" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vanshik13685867" target="blank"><img src="https://img.shields.io/twitter/follow/vanshik13685867?logo=twitter&style=for-the-badge" alt="vanshik13685867" /></a> </p>
